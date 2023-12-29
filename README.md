@@ -1,4 +1,4 @@
-## Hi there👋, Welcome to my github profile!
+## Hi there👋 I'm Diksha, Welcome to my github profile!
 👩‍💻I am a Software Engineer
 ### 🌱Currently I am working and learning ...
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 ### 📬How to reach me...
 <a href="https://www.linkedin.com/in/diksha-singh-1777b5213/" title="dikshaSingh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:17singhdiksha@gmail.com" target="_blank" title="17singhdiksha@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
-#### Cheers!🥂
+
 
 
 
